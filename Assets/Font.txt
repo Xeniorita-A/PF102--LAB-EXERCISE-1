@@ -1,0 +1,15 @@
+To embed these fonts into a webpage, copy this code into the <head> of your HTML document.
+
+<link href="https://fonts.googleapis.com/css?family=Radley|Prosto-One" rel="stylesheet">
+
+Then, use the following CSS rules to specify these families:
+
+font-family: 'Source-Serif-Pro';
+font-family: 'Lilita-One';
+
+Palette:
+GRAY - 6B6D76; rgb(107, 109, 118)
+NUDE- A69888; rgb(166, 152, 136)
+PINK- FCBFB7; rgb(252, 191, 183)
+BLUE GREEN- 334E58; rgb(51, 78, 88)
+BROWN- 33261D; rgb(51, 38, 29)
